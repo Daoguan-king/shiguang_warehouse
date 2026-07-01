@@ -577,9 +577,9 @@ schools:
     initial: "T"
     resource_folder: "GZTRC"
 
-  - id: "AAAA"
+  - id: "ZCMU"
     name: "浙江中医药大学"
-    initial: "A"
+    initial: "Z"
     resource_folder: "ZCMU"
 
   - id: "GZU"
