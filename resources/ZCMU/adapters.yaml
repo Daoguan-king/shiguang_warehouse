@@ -4,6 +4,6 @@ adapters:
     adapter_name: "浙江中医药大学正方教务"
     category: "BACHELOR_AND_ASSOCIATE"
     asset_js_path: "zcmu.js"
-    import_url: "https://jwmk.zcmu.edu.cn/jwglxt/xtgl/login_slogin.html?language=zh_CN"
+    import_url: "https://jwmk.zcmu.edu.cn/jwglxt/xtgl/login_slogin.html"
     maintainer: "Daoguan-king"
     description: "登录浙江中医药大学教务系统后需要进入[信息查询]的[个人课表查询]页面再点击导入。这是通过滨文校区的教务数据开发的，不确定富春校区是否支持，若不能支持请提交issues。"
